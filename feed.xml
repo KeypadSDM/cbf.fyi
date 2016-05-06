@@ -5,13 +5,13 @@
     <description>CBF. FYI.</description>
     <link>http://cbf.fyi/</link>
     <atom:link href="http://cbf.fyi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 10:20:16 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 10:20:16 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 10:29:18 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 10:29:18 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Civil War Optimisation</title>
-        <description>&lt;p&gt;I have one questions for Walt Hickey about his &lt;a href=&quot;http://fivethirtyeight.com/features/captain-america-civil-war-who-would-win/&quot;&gt;Civil War article&lt;/a&gt;. Why did you take the user input data (which has beautiful intrinsic Rock-Scissors-Paper features) and linearise it? Seriously, this is basically the equivalent of going into a Pokemon game and getting rid of types. WHY?&lt;/p&gt;
+        <description>&lt;p&gt;I have one question for Walt Hickey about his &lt;a href=&quot;http://fivethirtyeight.com/features/captain-america-civil-war-who-would-win/&quot;&gt;Civil War article&lt;/a&gt;. Why did you take the user input data (which has beautiful intrinsic Rock-Scissors-Paper features) and linearise it? Seriously, this is basically the equivalent of going into a Pokemon game and getting rid of types. WHY?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/dank/assets/20160506-why-pokemon.gif&quot; alt=&quot;Why?&quot; title=&quot;Why?&quot; /&gt;&lt;/p&gt;
 
@@ -67,11 +67,9 @@
         <guid isPermaLink="true">http://cbf.fyi/articles/2016-05/civil-war-optimisation</guid>
         
         
-        <category>Civil</category>
+        <category>Civil-War</category>
         
-        <category>War,</category>
-        
-        <category>Python,</category>
+        <category>Python</category>
         
         <category>Optimisation</category>
         
