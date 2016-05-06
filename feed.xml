@@ -5,8 +5,8 @@
     <description>CBF. FYI.</description>
     <link>http://cbf.fyi/</link>
     <atom:link href="http://cbf.fyi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 12:40:36 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 12:40:36 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 14:07:25 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 14:07:25 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -87,6 +87,164 @@
         <category>Python</category>
         
         <category>Optimisation</category>
+        
+      </item>
+    
+      <item>
+        <title>Renegades T Side Meta</title>
+        <description>&lt;p&gt;I think the Renegades have new meta. And it’s a very risky strategy, but it paid off in the first map of their BO3 with &lt;a href=&quot;http://www.hltv.org/match/2302534-asia-minor-upper-final-pgl-kespa-regional-minor-championship-asia&quot;&gt;Tyloo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a serious tournament. The winner of this BO3 gets automatic entry into the qualifier for the Major. This is no time to be playing around. Yet, in two of the three maps, Renegades did this risky strategy (Map 1: Cobblestone, and Map 3: Cache). Two times. This is a serious strategy.&lt;/p&gt;
+
+&lt;p&gt;So what is it?&lt;/p&gt;
+
+&lt;h3 id=&quot;if-you-win-rounds-1-3-as-t-side-dont-full-buy-into-round-4-get-as-many-kills-as-possible-with-what-you-have&quot;&gt;If you win rounds 1-3 as T Side, don’t full buy into round 4. Get as many kills as possible with what you have.&lt;/h3&gt;
+
+&lt;h3 id=&quot;and-importantly-its-almost-better-to-lose-round-4-than-to-win-it&quot;&gt;And, importantly, it’s almost better to lose round 4 than to win it.&lt;/h3&gt;
+
+&lt;p&gt;Ok, so why does this work? It’s all to do with &lt;em&gt;resetting the CT economy&lt;/em&gt;. Here’s how the economy works:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/dank/assets/20160506-csgocash.png&quot; alt=&quot;This is important, even for silvers&quot; title=&quot;Ee-co-no-mee&quot; /&gt;
+    &lt;figcaption&gt;&lt;i&gt;This is important, even for silvers&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;round-1-t-side-win&quot;&gt;Round 1: T Side Win&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;After winning Round 1, buy SMGs into round 2.&lt;/li&gt;
+  &lt;li&gt;You expect the CTs to force buy (since they can’t do a full buy round 3 anyway)&lt;/li&gt;
+  &lt;li&gt;Pros:
+    &lt;ul&gt;
+      &lt;li&gt;CTs can’t get any rifles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cons:
+    &lt;ul&gt;
+      &lt;li&gt;CTs will buy helmets, hard to kill at range&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Avg CT Money At Start of Round 2: $150 + $1400 (loss bonus) = $1550&lt;/li&gt;
+  &lt;li&gt;Avg CT Money At End of Round 2: $400 (full buy, leave a bit of cash, or get kills)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;round-2-t-side-win&quot;&gt;Round 2: T Side Win&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;After winning Round 2, buy SMGs into round 3.&lt;/li&gt;
+  &lt;li&gt;You expect the CTs to be full eco this round.&lt;/li&gt;
+  &lt;li&gt;Pros:
+    &lt;ul&gt;
+      &lt;li&gt;CTs can’t get any rifles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CT Money At Start of Round 3: $400 + $1900 (loss bonus) = $2300&lt;/li&gt;
+  &lt;li&gt;CT Money At End of Round 3: $2300 (full eco, no buy)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;round-3-t-side-win&quot;&gt;Round 3: T Side Win&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;After winning Round 3, buy SMGs into round 4.
+    &lt;ul&gt;
+      &lt;li&gt;Your money, after buying at the start of round 4, needs to be such that a loss without plant ($1400) is &lt;em&gt;enough for a full buy in round 5&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You expect the CTs to do a full buy&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You don’t expect full grenades or utility from them, they will be slightly weak.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CT Money At Start of Round 4: $2300 + $2400 (loss bonus) = $4700&lt;/li&gt;
+  &lt;li&gt;CT Money At End of Round 4: ~$450 (a few kills)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;strategy-time&quot;&gt;Strategy Time&lt;/h3&gt;
+
+&lt;p&gt;Ok now we have a result. The T’s have just played round 4 in a weaker position than the CTs (they have full utility, but worse guns (SMGs and Tec-9s))&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;T Side (Round 4)
+    &lt;ul&gt;
+      &lt;li&gt;Full Utility&lt;/li&gt;
+      &lt;li&gt;Weak Guns (SMGs + Tec-9)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CT Side (Round 4)
+    &lt;ul&gt;
+      &lt;li&gt;Low-Moderate Utility&lt;/li&gt;
+      &lt;li&gt;Strong Guns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The T Side should attempt to milk out the CT utility, and then make a close quarters site take. If they get a bomb plant, even better for them. Now, we assume the Ts should get a few trade kills, so at least 2-3 CTs should die. Think about where the CT economy is, right now. It’s in the toilet.&lt;/p&gt;
+
+&lt;h3 id=&quot;if-the-ts-win-round-4&quot;&gt;If the Ts win round 4&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CT Money At Start of Round 5: $450 + $2900 (loss bonus) = $3350&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is enough cash, with two saved guns, to do a force buy into round 5. And, look at the T economy, they’re doing super well.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;T Side (Round 5)
+    &lt;ul&gt;
+      &lt;li&gt;Full Utility&lt;/li&gt;
+      &lt;li&gt;Strong Guns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CT Side (Round 4)
+    &lt;ul&gt;
+      &lt;li&gt;Low Utility&lt;/li&gt;
+      &lt;li&gt;Medium-Strong Guns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;if-the-cts-win-round-4&quot;&gt;If the CTs win round 4&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CT Money At Start of Round 5: $450 + $3500 (win + defuse bonus) = $3950&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is enough cash, with two saved guns, to do a full buy into round 5. And, look at the T economy, they’re doing fine.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;T Side (Round 5)
+    &lt;ul&gt;
+      &lt;li&gt;Full Utility&lt;/li&gt;
+      &lt;li&gt;Strong Guns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CT Side (Round 4)
+    &lt;ul&gt;
+      &lt;li&gt;Low-Medium Utility&lt;/li&gt;
+      &lt;li&gt;Strong Guns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-ts-are-in-a-stronger-position-than-the-cts-at-the-beginning-of-round-5-regardless-of-the-outcome-of-round-4-and-they-have-one-massive-bonus&quot;&gt;The Ts are in a stronger position than the CTs at the beginning of round 5, regardless of the outcome of round 4. And they have one massive bonus:&lt;/h3&gt;
+
+&lt;h3 id=&quot;if-the-ts-win-round-5-and-the-cts-lost-round-4-the-ct-economy-is-reset&quot;&gt;&lt;em&gt;IF THE Ts WIN ROUND 5, AND THE CTs LOST ROUND 4, THE CT ECONOMY IS RESET&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;And that’s the crux of the argument. Regardless of outcome, the Ts will have a strong buy into round 5, while the CTs are unlikely to have &lt;em&gt;everything&lt;/em&gt; they want. All else being equal, that’s a good situation. And, if the Ts have lost round 4, and win round 5, they have put the CTs in a dire position of choosing whether to Eco or force buy. The mental pressure on the CTs is immense to win round 5, and any casualties will severely affect their mental and financial game.&lt;/p&gt;
+
+&lt;h3 id=&quot;tldr&quot;&gt;TL;DR&lt;/h3&gt;
+
+&lt;p&gt;T Side, win rounds 1-3. Only buy SMGs. Lose round 4 with enough to full buy in round 5. Do your best to reset the CT economy, and at the end of round 5, you will be in complete control of the first half.&lt;/p&gt;
+
+&lt;p&gt;If you want to chat about this, please hit me up on &lt;a href=&quot;https://twitter.com/keypadsdm&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 May 2016 00:00:00 +0100</pubDate>
+        <link>http://cbf.fyi/articles/2016-05/Renegades-new-meta</link>
+        <guid isPermaLink="true">http://cbf.fyi/articles/2016-05/Renegades-new-meta</guid>
+        
+        
+        <category>CS-GO</category>
+        
+        <category>Meta</category>
         
       </item>
     
