@@ -5,9 +5,77 @@
     <description>CBF. FYI.</description>
     <link>http://cbf.fyi/</link>
     <atom:link href="http://cbf.fyi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Mar 2016 03:46:21 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Mar 2016 03:46:21 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 10:20:16 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 10:20:16 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Civil War Optimisation</title>
+        <description>&lt;p&gt;I have one questions for Walt Hickey about his &lt;a href=&quot;http://fivethirtyeight.com/features/captain-america-civil-war-who-would-win/&quot;&gt;Civil War article&lt;/a&gt;. Why did you take the user input data (which has beautiful intrinsic Rock-Scissors-Paper features) and linearise it? Seriously, this is basically the equivalent of going into a Pokemon game and getting rid of types. WHY?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dank/assets/20160506-why-pokemon.gif&quot; alt=&quot;Why?&quot; title=&quot;Why?&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyway, so I ran some analysis on the raw data (rather than the linearised data) and, well, Captain America still does really badly.&lt;/p&gt;
+
+&lt;h4 id=&quot;captain-america-win-rate-204&quot;&gt;Captain America Win Rate &lt;code&gt;20.4%&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;So I thought I’d be a mad genius and ask the question (that Walt also asked) &lt;em&gt;what if Cap got to pick the battles?&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dank/assets/21060506-cap-america-army.gif&quot; alt=&quot;One Man&#39;s Army&quot; title=&quot;Scarlet Witch, you fight whoever&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;strategy-one-our-best-their-worst&quot;&gt;Strategy One: Our best, their worst&lt;/h3&gt;
+
+&lt;p&gt;Every round, just pick Cap’s best player, and take Iron Man’s worst…&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Write and run some sweet code
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;captain-america-win-rate-199&quot;&gt;Captain America Win Rate &lt;code&gt;19.9%&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;Oh no. No no. Oh wow. Maybe… Maybe I wrote the code the wrong way around. Let’s reverse the teams. That’ll do it.&lt;/p&gt;
+
+&lt;h3 id=&quot;strategy-two-our-worst-their-best&quot;&gt;Strategy Two: Our worst, their best&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;Edit and fix that sweet code
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;captain-america-win-rate-168&quot;&gt;Captain America Win Rate &lt;code&gt;16.8%&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dank/assets/21060506-makeitworse.gif&quot; alt=&quot;The Worst&quot; title=&quot;IRL Every Day&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyway then I decided to mad beast mode it up and give up on those awful strategies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dank/assets/20160506-cap-copter.gif&quot; alt=&quot;Look at those guns&quot; title=&quot;Beast Mode&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, like, the biggest problem with running your best against their worst until your team wins is that by the time you get to their best player, you’re down to, like, Falcon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dank/assets/20160506-falcon-landing.gif&quot; alt=&quot;He&#39;s ok, I guess.&quot; title=&quot;Elegant, not strong.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The worst.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Anyway&lt;/em&gt;, so, you want to avoid that at all costs. So how about getting rid of him early? Why not run your worst (on average) player against the person they have the best chance of defeating? They’re gonna be crap right at the end, let’s use them as cannon fodder up in front.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Onemillionsimulationslater
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;captain-america-win-rate-228&quot;&gt;Captain America Win Rate &lt;code&gt;22.8%&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;Sort of doing an actual optimisation, and writing actual code, this is where I’m going to leave it. It’s a Friday night, beer O’Clock!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 May 2016 00:00:00 +0100</pubDate>
+        <link>http://cbf.fyi/articles/2016-05/civil-war-optimisation</link>
+        <guid isPermaLink="true">http://cbf.fyi/articles/2016-05/civil-war-optimisation</guid>
+        
+        
+        <category>Civil</category>
+        
+        <category>War,</category>
+        
+        <category>Python,</category>
+        
+        <category>Optimisation</category>
+        
+      </item>
     
   </channel>
 </rss>

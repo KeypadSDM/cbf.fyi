@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Civil War Optimisation</title>
+  <meta name="description" content="Five Thirty Eight Ain't Great">
+
+  <!-- CSS files -->
+  <link rel="stylesheet" href="http://cbf.fyi/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://cbf.fyi/css/main.css">
+
+  <link rel="canonical" href="http://cbf.fyi/articles/2016-05/civil-war-optimisation">
+  <link rel="alternate" type="application/rss+xml" title="cbf.fyi" href="http://cbf.fyi /feed.xml " />
+
+  <!-- Icons -->
+  <!-- 16x16 -->
+  <link rel="shortcut icon" href="http://cbf.fyi/favicon.ico">
+  <!-- 32x32 -->
+  <link rel="shortcut icon" href="http://cbf.fyi/favicon.png">
+</head>
+
+
+<body>
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
+        
+
+<div class="cover-card table-cell table-bottom">
+  
+  <img src="http://cbf.fyi/img/radvatar.png" alt="" class="avatar">
+  
+  <a href="http://cbf.fyi/" class="author_name">See Bee Eff. Eff Why Eye</a>
+  <span class="author_job">When you just can't be bothered.</span>
+  <span class="author_bio mbm">You might find something useful here.</span>
+  <nav class="nav">
+    <ul class="nav-list">
+       
+      <li class="nav-item">
+        <a href="http://cbf.fyi/archive/">Archive</a>
+        <span>/</span>
+      </li>
+          
+      <li class="nav-item">
+        <a href="http://cbf.fyi/categories/">Categories</a>
+        <span>/</span>
+      </li>
+            
+      <li class="nav-item">
+        <a href="http://cbf.fyi/tags/">Tags</a>
+      </li>
+       
+    </ul>
+  </nav>
+  <div class="social-links">
+  <ul>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ul>
+</div>
+
+</div>
+
+      </div>
+    </div>
+    <div class="col s12 m9">
+      <div class="post-listing">
+        <div class="back-home">
+  <a href="http://cbf.fyi/">< back Home.</a>
+</div>
+
+
+
+<div id="post">
+  <header class="post-header">
+    <h1 title="Civil War Optimisation">Civil War Optimisation</h1>
+    <span class="post-meta">
+      <span class="post-date">
+        6 MAY 2016
+      </span>
+      •
+      <span class="read-time" title="Estimated read time">
+  
+  
+    1 min read
+  
+</span>
+
+    </span>
+
+  </header>
+
+  <article class="post-content">
+    <p>I have one questions for Walt Hickey about his <a href="http://fivethirtyeight.com/features/captain-america-civil-war-who-would-win/">Civil War article</a>. Why did you take the user input data (which has beautiful intrinsic Rock-Scissors-Paper features) and linearise it? Seriously, this is basically the equivalent of going into a Pokemon game and getting rid of types. WHY?</p>
+
+<p><img src="/dank/assets/20160506-why-pokemon.gif" alt="Why?" title="Why?" /></p>
+
+<p>Anyway, so I ran some analysis on the raw data (rather than the linearised data) and, well, Captain America still does really badly.</p>
+
+<h4 id="captain-america-win-rate-204">Captain America Win Rate <code>20.4%</code></h4>
+
+<p>So I thought I’d be a mad genius and ask the question (that Walt also asked) <em>what if Cap got to pick the battles?</em>.</p>
+
+<p><img src="/dank/assets/21060506-cap-america-army.gif" alt="One Man's Army" title="Scarlet Witch, you fight whoever" /></p>
+
+<h3 id="strategy-one-our-best-their-worst">Strategy One: Our best, their worst</h3>
+
+<p>Every round, just pick Cap’s best player, and take Iron Man’s worst…</p>
+
+<pre><code>Write and run some sweet code
+</code></pre>
+
+<h4 id="captain-america-win-rate-199">Captain America Win Rate <code>19.9%</code></h4>
+
+<p>Oh no. No no. Oh wow. Maybe… Maybe I wrote the code the wrong way around. Let’s reverse the teams. That’ll do it.</p>
+
+<h3 id="strategy-two-our-worst-their-best">Strategy Two: Our worst, their best</h3>
+
+<pre><code>Edit and fix that sweet code
+</code></pre>
+
+<h4 id="captain-america-win-rate-168">Captain America Win Rate <code>16.8%</code></h4>
+
+<p><img src="/dank/assets/21060506-makeitworse.gif" alt="The Worst" title="IRL Every Day" /></p>
+
+<p>Anyway then I decided to mad beast mode it up and give up on those awful strategies.</p>
+
+<p><img src="/dank/assets/20160506-cap-copter.gif" alt="Look at those guns" title="Beast Mode" /></p>
+
+<p>So, like, the biggest problem with running your best against their worst until your team wins is that by the time you get to their best player, you’re down to, like, Falcon.</p>
+
+<p><img src="/dank/assets/20160506-falcon-landing.gif" alt="He's ok, I guess." title="Elegant, not strong." /></p>
+
+<p>The worst.</p>
+
+<p><em>Anyway</em>, so, you want to avoid that at all costs. So how about getting rid of him early? Why not run your worst (on average) player against the person they have the best chance of defeating? They’re gonna be crap right at the end, let’s use them as cannon fodder up in front.</p>
+
+<pre><code>Onemillionsimulationslater
+</code></pre>
+
+<h4 id="captain-america-win-rate-228">Captain America Win Rate <code>22.8%</code></h4>
+
+<p>Sort of doing an actual optimisation, and writing actual code, this is where I’m going to leave it. It’s a Friday night, beer O’Clock!</p>
+
+  </article>
+</div>
+
+<div class="share-buttons">
+  <h6>Share on: </h6>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://cbf.fyi/articles/2016-05/civil-war-optimisation" class="twitter btn" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://cbf.fyi/articles/2016-05/civil-war-optimisation" class="facebook btn" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://cbf.fyi/articles/2016-05/civil-war-optimisation" class="google-plus btn" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+    <li>
+      <a href="https://news.ycombinator.com/submitlink?u=http://cbf.fyi/articles/2016-05/civil-war-optimisation" class="hacker-news btn" title="Share on Hacker News"><i class="fa fa-hacker-news"></i><span> Hacker News</span></a>
+    </li>
+    <li>
+      <a href="https://www.reddit.com/submit?url=http://cbf.fyi/articles/2016-05/civil-war-optimisation" class="reddit btn" title="Share on Reddit"><i class="fa fa-reddit"></i><span> Reddit</span></a>
+    </li>
+  </ul>
+</div><!-- end share-buttons -->
+
+
+
+        <footer>
+  &copy; 2016 See Bee Eff. Eff Why Eye. Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a> made with <i class="fa fa-heart heart-icon"></i>
+</footer>
+
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="http://cbf.fyi/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="http://cbf.fyi/js/main.js"></script>
+
+
+</body>
+</html>
