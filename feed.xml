@@ -5,8 +5,8 @@
     <description>CBF. FYI.</description>
     <link>http://cbf.fyi/</link>
     <atom:link href="http://cbf.fyi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 May 2016 01:03:40 +0100</pubDate>
-    <lastBuildDate>Sat, 07 May 2016 01:03:40 +0100</lastBuildDate>
+    <pubDate>Sat, 07 May 2016 05:14:12 +0100</pubDate>
+    <lastBuildDate>Sat, 07 May 2016 05:14:12 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -286,7 +286,7 @@
       &lt;li&gt;After Finishing Buying Start of Round 4: &lt;code&gt;$3,520&lt;/code&gt; average remaining on each&lt;/li&gt;
       &lt;li&gt;Start of Round 5: &lt;code&gt;$4,920&lt;/code&gt; average
         &lt;ul&gt;
-          &lt;li&gt;&lt;code&gt;$1400&lt;/code&gt; (Loss) = &lt;code&gt;$1,400&lt;/code&gt; net change&lt;/li&gt;
+          &lt;li&gt;&lt;code&gt;$1,400&lt;/code&gt; (Loss) = &lt;code&gt;$1,400&lt;/code&gt; net change&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -296,7 +296,7 @@
       &lt;li&gt;After Finishing Buying Start of Round 4: &lt;code&gt;$4,340&lt;/code&gt; average remaining on each&lt;/li&gt;
       &lt;li&gt;Start of Round 5: &lt;code&gt;$6,960&lt;/code&gt; average
         &lt;ul&gt;
-          &lt;li&gt;&lt;code&gt;$1400&lt;/code&gt; (Loss) + (&lt;code&gt;$600&lt;/code&gt;&lt;em&gt;2 + &lt;code&gt;$300&lt;/code&gt;&lt;/em&gt;2 + &lt;code&gt;$300&lt;/code&gt;)/5 (Approx Kills + Bomb Plant) + &lt;code&gt;$800&lt;/code&gt; (Plant) = &lt;code&gt;$2620&lt;/code&gt; net change&lt;/li&gt;
+          &lt;li&gt;&lt;code&gt;$1,400&lt;/code&gt; (Loss) + (&lt;code&gt;$600&lt;/code&gt;x2 + &lt;code&gt;$300&lt;/code&gt;x2 + &lt;code&gt;$300&lt;/code&gt;)/5 (Approx Kills + Bomb Plant) + &lt;code&gt;$800&lt;/code&gt; (Plant) = &lt;code&gt;$2,620&lt;/code&gt; net change&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -327,6 +327,286 @@
     &lt;img src=&quot;/dank/assets/20160506-morecommonmeta3.png&quot; alt=&quot;Cobblestone&quot; title=&quot;Ee-co-no-mee&quot; /&gt;
     &lt;figcaption&gt;&lt;i&gt;Cobblestone&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;h3 id=&quot;examples-of-renegades-not-doing-the-new-meta&quot;&gt;Examples of Renegades &lt;em&gt;not&lt;/em&gt; Doing the New Meta&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitch.tv/pgl/v/64826179?t=3h58m30s&quot;&gt;Here is an example&lt;/a&gt; (in the same tournament, previous game against Immunity) on Mirage:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;T’s win the 1st through 3rd Rounds, survive with 3 members and the following:
+    &lt;ul&gt;
+      &lt;li&gt;1 x P-90&lt;/li&gt;
+      &lt;li&gt;1 x MP7&lt;/li&gt;
+      &lt;li&gt;1 x UMP&lt;/li&gt;
+      &lt;li&gt;1 x Tec-9&lt;/li&gt;
+      &lt;li&gt;3 x Head + Armour&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Their team money at start of round 4 (per player) is: &lt;code&gt;$6,040&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;I think, due to AZR buying up AK super quickly, they opted to not do the eco-buy strategy (look how long they waited for the other 4 players to buy, given AZR’s buy. They each individually had enough money to perform their own personal buy, so they weren’t discussing trading weapons etc. They were deciding if they eco-buy strat was worth bringing out at that point.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;After Spend&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Start Of Round&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Player + Equipment&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Total Spend&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th&gt;Armour&lt;/th&gt;
+      &lt;th&gt;Flash&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Smoke&lt;/th&gt;
+      &lt;th&gt;Molly&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1150&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5950&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;USTILLO&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4800&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2700&lt;/td&gt;
+      &lt;td&gt;1000&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3050&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7850&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AZR&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4800&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2700&lt;/td&gt;
+      &lt;td&gt;1000&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6200&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Spunj (Flash + Tec-9 + P90 + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;yam (MP7 + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5250&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4750&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1500&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;jks (Molly + UMP + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3400&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2700&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Total Money Left Per Player &lt;code&gt;$2,210&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;If they had gone for the eco-buy &lt;em&gt;after&lt;/em&gt; AZR did his buy, it would have looked like this:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;After Spend&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Start Of Round&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Player + Equipment&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Total Spend&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th&gt;Armour&lt;/th&gt;
+      &lt;th&gt;Flash&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Smoke&lt;/th&gt;
+      &lt;th&gt;Molly&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3850&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5950&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;USTILLO (with Spunj’s P90)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2100&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt;1000&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3050&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7850&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AZR&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4800&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2700&lt;/td&gt;
+      &lt;td&gt;1000&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6200&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Spunj (Flash + Tec-9 + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4400&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;yam (MP7 + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4200&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;jks (Molly + UMP + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;700&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Total Money Left Per Player &lt;code&gt;$4,160&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And if they’d done the eco buy at the onset, it would have looked like this:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;After Spend&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Start Of Round&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Player + Equipment&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Total Spend&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th&gt;Armour&lt;/th&gt;
+      &lt;th&gt;Flash&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Smoke&lt;/th&gt;
+      &lt;th&gt;Molly&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3850&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5950&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;USTILLO (with Spunj’s P90)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2100&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt;1000&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4700&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7850&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AZR&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3150&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1050&lt;/td&gt;
+      &lt;td&gt;1000&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6200&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Spunj (Flash + Tec-9 + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4400&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;yam (MP7 + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4200&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;jks (Molly + UMP + HArmour)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;700&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Total Money Left Per Player &lt;code&gt;$4,490&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If they had gone with the eco-buy, they could have saved a few grenades etc, with a set strategy (e.g. quick A execute)
+    &lt;ul&gt;
+      &lt;li&gt;Especially good as dead CTs will drop single grenade and gun utility as they fall.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My point here is that, when given the option to do it, and they had the perfect option to do it (Spunj holding P90 &lt;em&gt;and&lt;/em&gt; Tec-9) they didn’t execute it. I think they were either:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Saving it for a game/seried that mattered, or:&lt;/li&gt;
+  &lt;li&gt;Using it as an anti-strat against Tyloo&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;tldr&quot;&gt;TL;DR&lt;/h3&gt;
 
